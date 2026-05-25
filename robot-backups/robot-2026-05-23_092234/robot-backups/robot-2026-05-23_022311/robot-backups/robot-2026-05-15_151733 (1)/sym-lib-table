@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MAX4466EXK") (type "KiCad") (uri "${KIPRJMOD}/_restore_backup_2026-05-14T06-56-27-252/MAX4466EXK.kicad_sym") (options "") (descr ""))
+)

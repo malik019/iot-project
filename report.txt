@@ -1,0 +1,1 @@
+Change symbol Q3 from 'Transistor_BJT:MMBT2222A' to 'Transistor_BJT:MMBT2222A': OK
