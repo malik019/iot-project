@@ -2981,7 +2981,7 @@
 		)
 		(uuid "3f539a4b-3217-451a-af9d-e3f321ab3989")
 	)
-	(text_box "Enable Status LED"
+	(text_box "Activetion Status LED"
 		(exclude_from_sim no)
 		(at 17.78 144.78 0)
 		(size 121.92 60.96)
@@ -3001,7 +3001,7 @@
 		)
 		(uuid "5854525a-3e95-4b9b-b112-838418548705")
 	)
-	(text_box "Power Outlet"
+	(text_box "POWER OUTLET"
 		(exclude_from_sim no)
 		(at 78.74 144.78 0)
 		(size 60.96 60.96)
@@ -12732,7 +12732,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5V"
+		(property "Value" "3.3V"
 			(at 128.27 175.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12743,7 +12743,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Horizontal"
+		(property "Footprint" ""
 			(at 125.73 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -12825,7 +12825,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Horizontal"
+		(property "Footprint" ""
 			(at 100.33 172.72 0)
 			(hide yes)
 			(show_name no)
