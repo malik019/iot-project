@@ -1,0 +1,6 @@
+# KiCad lock and autosave files
+*.lck
+_autosave-*
+
+# Office lock files
+.~lock.*#
